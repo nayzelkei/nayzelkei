@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nayzelkei
-- 👀 I’m interested in InfoTech
-- 🌱 I’m currently learning the basics of Information Technology
+<h1>Hi, I'm nayzelkei!</h1>
+
+
 
 <!---
 nayzelkei/nayzelkei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
